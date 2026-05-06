@@ -86,4 +86,4 @@ The repository contents may be updated, revised, or corrected over time without 
 Dr Peter Yau  
 University of Glasgow  
 
-Email: petercy.yau@glasgow.ac.uk
+Email: PeterCY.Yau@glasgow.ac.uk
